@@ -1,0 +1,10 @@
+{
+    "VPCId": "vpc-08d410407a933be41",
+    "Region": "us-east-1",
+    "Subnets": ["subnet-00d1228051be477d8", "subnet-09054044f25ef2ea3"
+    ],
+    "SecurityGroups": ["sg-0412e32163fbf2bb2", "sg-00f067876f4492524"
+    ],
+    "RouteTables": ["rtb-06e49a4679451d6c4"
+    ]
+}
